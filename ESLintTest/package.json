@@ -1,0 +1,23 @@
+{
+  "name": "eslint-assignment",
+  "version": "1.0.0",
+  "description": "testing eslint",
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "author": "ellie",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@eslint/css": "^0.14.1",
+    "@eslint/js": "^9.39.2",
+    "@eslint/json": "^1.0.0",
+    "@eslint/markdown": "^7.5.1",
+    "eslint": "^9.39.2",
+    "globals": "^17.2.0"
+  }
+}
